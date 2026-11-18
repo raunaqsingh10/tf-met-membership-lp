@@ -11,7 +11,7 @@ export default function App() {
     <>
       <a className="skip-link" href="#main-content">Skip to content</a>
       <header className="bg-oxblood">
-        <Container className="flex items-center justify-between gap-4 py-[14px] lg:py-4">
+        <Container className="flex items-center justify-between gap-4 py-[11.2px] lg:py-[12.8px]">
           <Brand />
           <div className="flex items-center gap-10 text-paper">
             <nav className="hidden items-center gap-7 text-sm lg:flex" aria-label="Page navigation">
@@ -30,7 +30,7 @@ export default function App() {
         <Membership onCheckoutPreview={() => checkoutNotice.current?.showModal()} />
       </main>
       <footer className="bg-oxblood">
-        <Container className="flex items-center justify-between gap-4 py-[25px] lg:py-7">
+        <Container className="flex items-center justify-between gap-4 py-5 lg:py-[22.4px]">
           <Brand footer />
           <p className="max-w-[150px] text-right text-[9px] leading-[1.6] font-medium tracking-[1.1px] text-paper uppercase">Mingle Eat Talk · Bengaluru</p>
         </Container>

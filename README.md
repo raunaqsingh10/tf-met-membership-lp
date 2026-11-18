@@ -37,7 +37,7 @@ The candid laughing-group photo opens the hero, framed at 3:2 on mobile, 8:5 fro
 
 ## Branding
 
-`public/brand/met-wordmark.svg` is a transparent vector export of the supplied `MET logo/New/MET Logo 10.pdf`. It preserves the official white lettering and gold tagline, with the tagline converted to paths; only the background and excess canvas were removed. The original PDF is untouched. The header logo is 116px wide on mobile and 132px from 1024px; the footer logo is 132px wide throughout. No extra logo is added to the hero.
+`public/brand/met-wordmark.svg` is a transparent vector export of the supplied `MET logo/New/MET Logo 10.pdf`. It preserves the official white lettering and gold tagline, with the tagline converted to paths; only the background and excess canvas were removed. The original PDF is untouched. The header logo is 92.8px wide on mobile and 105.6px from 1024px; the footer logo is 105.6px wide throughout. These sizes and the surrounding vertical padding are 20% smaller than the original branding layout. No extra logo is added to the hero.
 
 ## Implementation
 
